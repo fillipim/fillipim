@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/fillipim">
 
-**camilafernanda2/camilafernanda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fillipim/fillipim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
